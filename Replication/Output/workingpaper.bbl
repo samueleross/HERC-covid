@@ -1,0 +1,214 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Bartik2020}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=be90525340f16b784a0de8d97208a230}{%
+           family={Bartik},
+           familyi={B\bibinitperiod},
+           given={Alexander\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a25cba6b139b5ccffa7a9dcf8252a692}{%
+           family={Bertrand},
+           familyi={B\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad88b3b802ac15bbc76cc52edfc7e3e9}{%
+           family={Cullen},
+           familyi={C\bibinitperiod},
+           given={Zoe},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b41d6ca29618683e119f3255b723113}{%
+           family={Glaeser},
+           familyi={G\bibinitperiod},
+           given={Edward\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=267b0e6bcab608a51779b5a6e41b162a}{%
+           family={Luca},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e669a9bed6e0740abc70f580d91269b5}{%
+           family={Stanton},
+           familyi={S\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{79db12724302ccc0e4195c5d4ad27ca8}
+      \strng{fullhash}{8bba0839b133c4761845ef953a0b6f31}
+      \strng{bibnamehash}{8bba0839b133c4761845ef953a0b6f31}
+      \strng{authorbibnamehash}{8bba0839b133c4761845ef953a0b6f31}
+      \strng{authornamehash}{79db12724302ccc0e4195c5d4ad27ca8}
+      \strng{authorfullhash}{8bba0839b133c4761845ef953a0b6f31}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To explore the impact of coronavirus disease 2019 (COVID-19) on small businesses, we conducted a survey of more than 5,800 small businesses between March 28 and April 4, 2020. Several themes emerged. First, mass layoffs and closures had already occurred?just a few weeks into the crisis. Second, the risk of closure was negatively associated with the expected length of the crisis. Moreover, businesses had widely varying beliefs about the likely duration of COVID-related disruptions. Third, many small businesses are financially fragile: The median business with more than \$10,000 in monthly expenses had only about 2 wk of cash on hand at the time of the survey. Fourth, the majority of businesses planned to seek funding through the Coronavirus Aid, Relief, and Economic Security (CARES) Act. However, many anticipated problems with accessing the program, such as bureaucratic hassles and difficulties establishing eligibility. Using experimental variation, we also assess take-up rates and business resilience effects for loans relative to grants-based programs.}
+      \field{day}{28}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{7}
+      \field{number}{30}
+      \field{shortjournal}{Proceedings of the National Academy of Sciences}
+      \field{title}{The Impact of {{COVID-19}} on Small Business Outcomes and Expectations}
+      \field{urlday}{26}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{117}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{17656\bibrangedash 17666}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1073/pnas.2006991117
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1073/pnas.2006991117
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1073/pnas.2006991117
+      \endverb
+    \endentry
+    \entry{Chetty2020}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=7a853740afbc544905334cf607b3cd51}{%
+           family={Chetty},
+           familyi={C\bibinitperiod},
+           given={Raj},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb2eb6a3bea93fb3238fb8e1de2cf006}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={John\bibnamedelima N},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dddc1bd4014bf50f037b3b8772994dd}{%
+           family={Hendren},
+           familyi={H\bibinitperiod},
+           given={Nathaniel},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=afb43a20acaf3b760e2f4d23f3cec5cb}{%
+           family={Stepner},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb56ebdaeec8c166ddc9cbbecc89382d}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={The\bibnamedelimb Opportunity\bibnamedelima Insights},
+           giveni={T\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{de9f176c59c95a4d2de134921515d461}
+      \strng{fullhash}{23f147506c8c857444c277a1c4d957b7}
+      \strng{bibnamehash}{23f147506c8c857444c277a1c4d957b7}
+      \strng{authorbibnamehash}{23f147506c8c857444c277a1c4d957b7}
+      \strng{authornamehash}{de9f176c59c95a4d2de134921515d461}
+      \strng{authorfullhash}{23f147506c8c857444c277a1c4d957b7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We build a publicly available database that tracks economic activity at a granular level in real time using anonymized data from private companies. We report daily statistics on consumer spending, business revenues, employment rates, and other key indicators disaggregated by ZIP code, industry, income group, and business size. Using these data, we study how COVID-19 affected the economy by analyzing heterogeneity in its impacts. We first show that high-income individuals reduced spending sharply in mid-March 2020, particularly in areas with high rates of COVID-19 infection and in sectors that require in-person interaction. This reduction in spending greatly reduced the revenues of small businesses in affluent ZIP codes. These businesses laid off many of their employees, leading to widespread job losses especially among low-wage workers in affluent areas. High-wage workers experienced a “V-shaped” recession that lasted a few weeks, whereas low-wage workers experienced much larger job losses that persisted for several months. Building on this diagnostic analysis, we estimate the causal effects of policies aimed at mitigating the adverse impacts of COVID-19. State-ordered reopenings of economies had small impacts on spending and employment. Stimulus payments to low-income households increased consumer spending sharply, but little of this increased spending flowed to businesses most affected by the COVID-19 shock, dampening its impacts on employment. Paycheck Protection Program loans increased employment at small businesses by only 2\%, implying a cost of \$377,000 per job saved. These results suggest that traditional macroeconomic tools – stimulating aggregate demand or providing liquidity to businesses – have diminished capacity to restore employment when consumer spending is constrained by health concerns. During a pandemic, it may be more fruitful to mitigate economic hardship through social insurance. More broadly, this analysis shows how public statistics constructed from private sector data can support many research and policy analyses without compromising privacy, providing a new tool for empirical macroeconomics.}
+      \field{day}{23}
+      \field{journaltitle}{National Bureau of Economic Research Working Paper Series}
+      \field{month}{10}
+      \field{title}{The {{Economic Impacts}} of {{COVID-19}}: {{Evidence}} from a {{New Public Database Built Using Private Sector Data}}}
+      \field{volume}{No. 27431}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.3386/w27431
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nber.org/papers/w27431
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/papers/w27431
+      \endverb
+    \endentry
+    \entry{Goolsbee2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=eed7c1a2d99770748d1a31e03226fcee}{%
+           family={Goolsbee},
+           familyi={G\bibinitperiod},
+           given={Austan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8d0c78db178b90df829e979334025a4}{%
+           family={Syverson},
+           familyi={S\bibinitperiod},
+           given={Chad},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{da8ef2db4f1752a34301784dbec31282}
+      \strng{fullhash}{da8ef2db4f1752a34301784dbec31282}
+      \strng{bibnamehash}{da8ef2db4f1752a34301784dbec31282}
+      \strng{authorbibnamehash}{da8ef2db4f1752a34301784dbec31282}
+      \strng{authornamehash}{da8ef2db4f1752a34301784dbec31282}
+      \strng{authorfullhash}{da8ef2db4f1752a34301784dbec31282}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The collapse of economic activity in 2020 from COVID-19 has been immense. An important question is how much of that resulted from government restrictions on activity versus people voluntarily choosing to stay home to avoid infection. This paper examines the drivers of the collapse using cellular phone records data on customer visits to more than 2.25 million individual businesses across 110 different industries. Comparing consumer behavior within the same commuting zones but across boundaries with different policy regimes suggests that legal shutdown orders account for only a modest share of the decline of economic activity (and that having county-level policy data is significantly more accurate than state-level data). While overall consumer traffic fell by 60 percentage points, legal restrictions explain only 7 of that. Individual choices were far more important and seem tied to fears of infection. Traffic started dropping before the legal orders were in place; was highly tied to the number of COVID deaths in the county; and showed a clear shift by consumers away from larger/busier stores toward smaller/less busy ones in the same industry. States repealing their shutdown orders saw identically modest recoveries--symmetric going down and coming back. The shutdown orders did, however, have significantly reallocate consumer activity away from “nonessential” to “essential” businesses and from restaurants and bars toward groceries and other food sellers.}
+      \field{journaltitle}{National Bureau of Economic Research Working Paper Series}
+      \field{title}{Fear, {{Lockdown}}, and {{Diversion}}: {{Comparing Drivers}} of {{Pandemic Economic Decline}} 2020}
+      \field{volume}{No. 27432}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.3386/w27432
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nber.org/papers/w27432
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/papers/w27432
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
