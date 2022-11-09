@@ -12,7 +12,7 @@ The project uses the Stata add-on package estout.
 
 **Restricted Data**
 
-While most data files were publicly available at the Opportunity Insights website (https://opportunityinsights.org/data/), the dataset HERC-covid/Replication/Data/InputData/Employment Combined - State - Daily.csv was provided directly by the Opportunity Insights team after we raised concerns about missing values in the public series. Our analysis uses this more complete dataset but we do not make it available in this repository due to intellectual property and privacy concerns. We have, however, provided the public version of this dataset HERC-covid/Replication/Data/InputData/Employment- State - Daily.csv for a proof-of-concept. To obtain the private dataset, we recommmend contacting the Opportunity Insights team directly at info@opportunityinsights.org. Otherwise, please follow the instructions below to use the public data.
+While most data files were publicly available at the Opportunity Insights website (https://opportunityinsights.org/data/), the dataset HERC-covid/Replication/Data/InputData/Employment Combined - State - Daily.csv was provided directly by the Opportunity Insights team after we inquired about missing values in the public series. Our analysis uses this more complete dataset but we do not make it available in this repository due to intellectual property and privacy concerns. We have, however, provided the public version of this dataset HERC-covid/Replication/Data/InputData/Employment- State - Daily.csv for a proof-of-concept. To obtain the private dataset, we recommend contacting the Opportunity Insights team directly at info@opportunityinsights.org. Otherwise, please follow the instructions below to use the public data.
 
 
 **File Structure**
